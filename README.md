@@ -1,2 +1,2 @@
-# V
+# MageticFieldVisual
 Created with CodeSandbox
